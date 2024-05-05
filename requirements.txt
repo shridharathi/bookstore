@@ -1,0 +1,15 @@
+flask
+requests
+beautifulsoup4
+openai
+pinecone-client
+flask-cors
+python-dotenv
+gunicorn
+sseclient-py
+streamlit==1.24.1
+urllib3<2
+click<=8.0.4
+fastapi
+uvicorn
+sentence-transformers
